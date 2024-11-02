@@ -1,2 +1,2 @@
 # CRUD-Docker
-Aplicação Back-End para dados de Cliente e Endereço 
+Aplicação Back-End para manipulação dos dados de Cliente e Endereço 
